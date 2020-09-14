@@ -3,6 +3,6 @@ This work was made as my bachelor thesis. The exploratory task was using LSTM-au
 # Key words
 Time series, contextual anomalies, discrete wavelet transform, Butterworth filters, autoencoder, Recurrent Neural Network (RNN), LSTM-RNN, LSTM-autoencoder.
 # Technologies
-*Python 3.6.9
-*Keras 2.4.0
-*Code was implemented with Jupyter Notebook in Google Colab
+* Python 3.6.9
+* Keras 2.4.0
+* Code was implemented with Jupyter Notebook in Google Colab
